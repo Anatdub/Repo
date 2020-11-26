@@ -1,7 +1,7 @@
 package base;
 
 public class BubleSort {
-	/** The method for sorting the numbers */
+	
 	  public static void bubleSort(double[] array) {
 		  for (int i = 0; i < array.length; i++) {
 	            for (int j = 0; j < array.length - i - 1; j++) {
